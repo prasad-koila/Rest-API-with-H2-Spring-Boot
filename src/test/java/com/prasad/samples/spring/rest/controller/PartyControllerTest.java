@@ -11,7 +11,7 @@ import org.springframework.http.MediaType;
 import com.prasad.samples.spring.rest.AbstractControllerTest;
 import com.prasad.samples.spring.rest.dto.PartyDto;
 
-public class YourRestControllerTest extends AbstractControllerTest {
+public class PartyControllerTest extends AbstractControllerTest {
 
 	@Test
 	public void shouldCreateParty() throws Exception {

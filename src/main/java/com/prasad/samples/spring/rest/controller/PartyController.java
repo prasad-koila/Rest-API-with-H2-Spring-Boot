@@ -13,7 +13,7 @@ import com.prasad.samples.spring.rest.dto.PartyDto;
 import com.prasad.samples.spring.rest.service.PartyService;
 
 @RestController
-public class YourRestController {
+public class PartyController {
 
 	@Autowired
 	PartyService partyService;
